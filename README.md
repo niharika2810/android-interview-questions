@@ -337,7 +337,7 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 
 * Design Whatsapp/Chat application/Facebook messenger.
 
-* Implement search functionality with debounce operator (If user keeps on typing, then cancel the last network call and hit for the present one, How will you acheive that?)
+* Implement search functionality with debounce operator (If user keeps on typing, then cancel the last network call and hit for the present one, How will you achieve that?)
 
 * Design a Location Tracking application
 
