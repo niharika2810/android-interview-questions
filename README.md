@@ -331,6 +331,8 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 
 * Observable vs Completable vs Single
 
+* Rx vs Coroutines. Which one you prefer and when?
+
 >You will be given assignments as your first/last round. They just want to know how you follow the standards. Some ask for UI thing, other ask for architectural patterns. Just check your methods and play well with the logic.That’s all.
 
 ## System Design
