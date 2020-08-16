@@ -5,6 +5,7 @@ A repository containing interview questions on DS, Java &amp; Android based on m
 
 Also, you will restrict yourself to those answers only. Try and learn more deeply abut the concepts. For any particular questions, You can ask anytime.
 
+
 ## DS
 
 1) <a href="https://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/">https://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/</a>
@@ -344,6 +345,11 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 * Design Bookmyshow.
 
 ### That’s all Guys. The moment I come out of the interview room, I always note down the questions on Google Keep. Blogs & Github links helped me so much in cracking these interviews. See Now I can help others too -:)
+
+If you learn about the concepts for the above questions, I am sure you will get your basics strong and with the strong basics, you can easily crack any interview.
+
+I have written an [article](https://blog.usejournal.com/interview-questions-for-android-java-ds-f5081cb3aa09) on the same.
+Originally published [here](https://niharika2810.github.io/2018/06/16/interview-questions-for-android-java-ds.html).
 
 If you have more questions, I will be happy to learn, add & share. Please raise a [PR](https://github.com/niharika2810/android-interview-questions/compare) and contribute. :-)
 
