@@ -21,7 +21,7 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 
 7) <a href="https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/">https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/</a>
 
-8) [https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/](https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/)
+8) [https://www.geeksforgeeks.org/longest-common-subarray-in-the-given-two-arrays/?ref=leftbar-rightbar](https://www.geeksforgeeks.org/longest-common-subarray-in-the-given-two-arrays/?ref=leftbar-rightbar)
 
 9) [https://www.geeksforgeeks.org/maximum-sum-path-across-two-arrays/](https://www.geeksforgeeks.org/maximum-sum-path-across-two-arrays/)
 
