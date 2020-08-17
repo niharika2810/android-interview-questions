@@ -1,6 +1,7 @@
 ---------------------------------
 Contributors 
 ---------------------------------
-Niharika Arora
-Abhijith Sreekar 
+* Niharika Arora
+
+* Abhijith Sreekar 
 
