@@ -337,7 +337,7 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 
 * Proguard vs R8
 
-* What is Scoped Storage and how tio implement?
+* What is Scoped Storage and how to implement?
 
 * Observable vs Completable vs Single
 
