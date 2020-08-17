@@ -71,6 +71,16 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 
 30) [https://www.geeksforgeeks.org/sorted-linked-list-to-balanced-bst/](https://www.geeksforgeeks.org/sorted-linked-list-to-balanced-bst/)
 
+31) [https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/](https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/)
+
+32) [https://www.educative.io/edpresso/how-to-find-the-most-frequent-word-in-an-array-of-strings](https://www.educative.io/edpresso/how-to-find-the-most-frequent-word-in-an-array-of-strings)
+
+33) Continuation Question to `32`, What is the time complexity of your solution and how can you improve it?
+
+34) What is the time complexity of mergeSort, quickSort and Binary search?
+
+35) What is the time complexity for removing an element from LinkedList?
+
 ## Java
 
 * Interfaces vs Abstract Classes.Why Interfaces if abstract classes are already there.
@@ -332,6 +342,14 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 * Observable vs Completable vs Single
 
 * Rx vs Coroutines. Which one you prefer and when?
+
+* Difference between MVP and MVVM?
+
+* Explain SOLID principles?
+
+* Difference between const and val
+
+* When is onPause() called without onStop() being called?
 
 >You will be given assignments as your first/last round. They just want to know how you follow the standards. Some ask for UI thing, other ask for architectural patterns. Just check your methods and play well with the logic.That’s all.
 
