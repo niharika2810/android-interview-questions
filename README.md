@@ -155,6 +155,8 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 
 * Why should we use Kotlin for Android Development?
 
+* Kotlin operators - apply, run, let, ?
+
 * How Kotlin is null-safe?
 
 * What is the difference between var and val?
@@ -363,8 +365,6 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 * Singleton vs Static and why we use them?
 
 * Deep vs Dynamic Linking
-
-* Kotlin operators - apply, run, let, ?
 
 * Livedata postValue vs set
 
