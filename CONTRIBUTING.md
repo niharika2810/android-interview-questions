@@ -3,5 +3,8 @@ Contributors
 ---------------------------------
 * Niharika Arora
 
-* Abhijith Sreekar 
+* Abhijith Sreekar
+
+* Chintan Parmar
+
 
