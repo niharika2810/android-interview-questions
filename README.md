@@ -151,6 +151,55 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 
 * Order of call of constructors during Inheritance.
 
+## Kotlin
+
+* Why should we use Kotlin for Android Development?
+
+* How Kotlin is null-safe?
+
+* What is the difference between var and val?
+
+* How const is different from val?
+
+* What is the difference between ?. and !!
+
+* How to define static functions in Kotlin?
+
+* What are Data Classes in Kotlin?
+
+* What do you mean by Sealed classes in Kotlin?
+
+* Collections in Kotlin.
+
+* Difference between lateinit and lazy.
+
+* What is Kotlin synthetic binding?
+
+* Difference between Kotlin Synthetics, View binding and Butterknife?
+
+* What are extension functions in Kotlin?
+
+* What are lambda expressions?
+
+* What are Higher-Order functions in Kotlin?
+
+* Difference between let, run, with, also, apply in Kotlin.
+
+* What is the best way for performing tasks on a background thread in kotlin?
+
+* What are Coroutines in Kotlin?
+
+* What are the different Coroutines Scope?
+
+* Why use suspend function in Kotlin Coroutines?
+
+* Explain Coroutine LifecycleScope.
+
+* What is Kotlin Flow?
+
+* Kotlin Flow vs RxJava.
+
+
 ## Android
 
 (Also they ask for code not just theory things. Keep this in mind.)
