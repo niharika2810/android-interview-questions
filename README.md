@@ -93,7 +93,7 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 
 * String pools,intern keyword,new() keyword
 
-* Linked list vs Array,Array vs ArrayLost,Set vs List vs Map,Iterator vs Enumeration.
+* Linked list vs Array,Array vs ArrayList,Set vs List vs Map,Iterator vs Enumeration.
 
 * How to compare two objects in Set?(hint : equals() and hashcode() overriding)
 
