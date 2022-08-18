@@ -83,17 +83,17 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 
 ## Java
 
-* Interfaces vs Abstract Classes.Why Interfaces if abstract classes are already there.
+* [Interfaces vs Abstract Classes](https://www.scaler.com/topics/java/difference-between-abstract-class-and-interface/).Why Interfaces if abstract classes are already there.
 
-* JAVA 8 new features
+* [JAVA 8 new features](https://www.scaler.com/topics/java-8-features/)
 
-* Hashmap implementation,ArrayList implementation
+* [Hashmap](https://www.scaler.com/topics/java/hashmap-in-java/) implementation,[ArrayList](https://www.scaler.com/topics/java/arraylist-in-java/) implementation
 
-* How to make a class immutable.
+* [How to make a class immutable](https://www.scaler.com/topics/why-string-is-immutable-in-java/).
 
-* String pools,intern keyword,new() keyword
+* [String pools](https://www.scaler.com/topics/java/string-pool-in-java/),intern keyword,new() keyword
 
-* Linked list vs Array,Array vs ArrayList,Set vs List vs Map,Iterator vs Enumeration.
+* Linked list vs Array,[Array vs ArrayList](https://www.scaler.com/topics/difference-between-array-and-arraylist/),Set vs List vs Map,Iterator vs Enumeration.
 
 * How to compare two objects in Set?(hint : equals() and hashcode() overriding)
 
@@ -113,7 +113,7 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 
 * Check for every keyword? Which type of error-Compile time or runtime(I remember it after I tried a sample in Android studio).
 
-* Stack vs Heap allocation in Java.
+* [Stack vs Heap allocation in Java](https://www.scaler.com/topics/java/heap-memory-and-stack-memory-in-java/).
 
 * Why is String immutable?
 
