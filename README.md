@@ -83,7 +83,7 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 
 ## Java
 
-* Interfaces vs Abstract Classes.Why Interfaces if abstract classes are already there.
+* [Interfaces vs Abstract Classes](https://www.scaler.com/topics/java/difference-between-abstract-class-and-interface/).Why Interfaces if abstract classes are already there.
 
 * JAVA 8 new features
 
