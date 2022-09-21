@@ -81,6 +81,8 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 
 35) What is the time complexity for removing an element from LinkedList?
 
+36)[https://www.interviewbit.com/blog/lowest-common-ancestor](https://www.interviewbit.com/blog/lowest-common-ancestor/) 
+
 ## Java
 
 * Interfaces vs Abstract Classes.Why Interfaces if abstract classes are already there.
